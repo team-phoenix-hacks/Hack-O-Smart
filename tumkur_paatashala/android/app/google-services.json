@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246168027355",
+    "project_id": "tumkur-paatashala",
+    "storage_bucket": "tumkur-paatashala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246168027355:android:ec683d082d0283c5dc4cfe",
+        "android_client_info": {
+          "package_name": "com.example.tumkur_paatashala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246168027355-90f1g48mlp708d9q588if1d7gpfka3r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QNI5vzTwWE-U9G_JLchrZdXsMoKs4TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246168027355-90f1g48mlp708d9q588if1d7gpfka3r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
